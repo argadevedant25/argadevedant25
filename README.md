@@ -2,6 +2,7 @@
 **argadevedant25/argadevedant25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 ## 👋 Hey there, I'm Vedant Argade!
 
 I'm a passionate Full Stack Developer Intern 🚀  
@@ -22,7 +23,7 @@ Fresher-level dev with fire to build cool stuff and learn fast ⚡
 
 ## 🧠 Fun Fact:
 I talk to ChatGPT more than humans 👀
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
